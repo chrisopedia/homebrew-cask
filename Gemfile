@@ -4,5 +4,5 @@ group :test do
   gem 'rake'
   gem 'minitest', '4.7.0'
   gem 'minitest-colorize'
-  gem 'mocha', '0.14.0'
+  gem 'mocha', '1.10.0'
 end
